@@ -4,6 +4,9 @@
 
 This is an updated version of the original Doing plugin made by [Rooyca](https://github.com/rooyca/doing)
 
+> **Acknowledgement:**  
+> Much of the core functionality and inspiration for this plugin comes from the original work by [Rooyca](https://github.com/rooyca/doing). Huge thanks to Rooyca for creating the foundation and sharing it with the community!
+
 Welcome to **Doing**, an Obsidian plugin designed to help you keep track of what task you were doing. This plugin is perfect for users who often find themselves switching contexts and need a quick reminder of their current task.
 
 ## 🚀 Features
